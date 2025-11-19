@@ -1,0 +1,7 @@
+cd /path/to/zahlwerk-worker
+git init
+git add .
+git commit -m "Initial commit — zahlwerk worker"
+git branch -M main
+git remote add origin https://github.com/shawnkibet8w-bot/zahlwerk-worker.git
+git push -u origin main
